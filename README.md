@@ -1,2 +1,4 @@
 # Emotion_Onomatopoeia_Dictionary
 RecursionCSのプロジェクト1-2
+
+作成中
